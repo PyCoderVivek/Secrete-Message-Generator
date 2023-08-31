@@ -17,7 +17,7 @@ git clone https://github.com/PyCoderVivek/Secrete-Message-Generator.git
 2. Install Dependencies
 
 ```bash
-cd Secrete-Message-Generator && pip install -r requirements.txt
+cd Secrete-Message-Generator 
 ```
 
 3. Start the Development Server
